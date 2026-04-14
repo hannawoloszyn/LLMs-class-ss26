@@ -20,10 +20,13 @@ This repository contains course materials, announcements, readings, and other re
 
 **Semester:** Summer Semester 2026  
 **Class Meeting Time:** 17.04, 24.04, 08.05, 22.05, 12.06, 19.06  
-**Class Location:** Herbert-Lewin-Str., 2, Building 211, Seminarraum S100 **(except for the class on 08.05 which will be in Building 216 Übungsraum S134)**
+**Class Location:** Herbert-Lewin-Str., 2, Building 211, Seminarraum S100 (https://klips2.uni-koeln.de/co/ris.ris?corg=14069&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=5730009&pRaumNr=7091&pActionFlag=A&pShowEinzelraum=J)
+
+**(except for the class on 08.05 which will be in Building 216 Übungsraum S134: https://verwaltung.uni-koeln.de/dezernat5/content/abteilung54/sachgebiet_4/lehrraeume/216___hf_hauptgebaeude/uebungsraum_s134/index_ger.html)**
 
 **Course Description:**  
 In this block seminar, we will explore the world of Large Language Models (LLMs) from a variety of interdisciplinary angles. We will look into the "black box" of AI to understand how these models are built and trained, and what actually happens when they process language. Since these are language models, we will focus heavily on the intersection of linguistics and technology, comparing  human and model meaning processing. We will cover the long history of this technology, as well as critical modern issues: the ethics of data collection and the human labor involved in "cleaning" AI, its environmental impact, and its effect on scientific research. This course is designed to be highly interactive. Beyond diving into foundational literature and group discussions, you will gain hands-on experience through practical sessions where we explore different models and resources.
+
 Important Information:
 - No previous knowledge or programming skills are required; students from all faculties and study programs are encouraged to join
 - The course and all materials will be entirely in English

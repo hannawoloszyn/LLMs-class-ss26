@@ -8,3 +8,4 @@
  6. BabyLM Challenge: https://babylm.github.io/
 7. Podcast with prof. Edward Gibson: https://www.youtube.com/watch?v=F3Jd9GI6XqE
 8. Günther, F., Rinaldi, L. and Marelli, M. (2019) “Vector-space models of semantic representation from a cognitive perspective: A discussion of common misconceptions.” https://doi.org/10.1177/1745691619861372
+9. 100 most important NLP papers: https://github.com/mhagiwara/100-nlp-papers
