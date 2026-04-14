@@ -30,4 +30,6 @@ Choose the paper from the paper list down below.
 22. Leivada, Evelina, Vittoria Dentella, and Fritz Günther. "Evaluating the language abilities of Large Language Models vs. humans: Three caveats." https://bioling.psychopen.eu/index.php/bioling/article/view/14391
 23. Ettinger, Allyson. "What BERT is not: Lessons from a new suite of psycholinguistic diagnostics for language models." https://aclanthology.org/2020.tacl-1.3/
 24. Leivada, Evelina, Raquel Montero, Paolo Morosi, Natalia Moskvina, Tamara Serrano, Marcel Aguilar, and Fritz Guenther. "Large Language Model probabilities cannot distinguish between possible and impossible language." https://arxiv.org/pdf/2509.15114
-25. 
+25. Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." http://proceedings.mlr.press/v32/le14.pdf
+26. Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. "Distributed representations of words and phrases and their compositionality." https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+27. Tsujii, Jun’ichi. "Natural language processing and computational linguistics." https://aclanthology.org/2021.cl-4.24.pdf
