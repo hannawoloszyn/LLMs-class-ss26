@@ -9,7 +9,9 @@ This repository contains course materials, announcements, readings, and other re
 ## Contact Information
 
 **Instructor:** Hanna Woloszyn 
+
 **Email:** hwoloszy@uni-kolen.de 
+
 **Office Hours:** just send me an email
 
 ---
