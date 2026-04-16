@@ -61,8 +61,8 @@ This repository is organized as follows:
 ## Course Schedule
 
 1. Introduction (17.04.2026, 12:00-14:00)
-2. Presentations + Introduction to (L)LMs and NLP (24.04.2026, 12:00-16:00)
-3. Presentations + How Large Language Models Represent Meaning (08.05, 12:00-16:00) (ROOM CHANGE)
+2. Introduction to NLP and (L)LMs (24.04.2026, 12:00-16:00)
+3. How Large Language Models Represent Meaning (08.05, 12:00-16:00) (ROOM CHANGE)
 4. Presentations + The Hidden Labor, Research Crisis & Ethical Costs (22.05.2026, 12:00-16:00)
 5. Presentations + Transparency & Open Source (practical part) (12.06, 12:00-16:00)
 6. Presentations + Hands on Research (19.06, 12:00-15:00)
@@ -71,13 +71,13 @@ This repository is organized as follows:
 
 ## Class Requirements
 
-1. A 20 minute presentation of a chosen paper (paper list can be found in [`presentations/`](presentations/))
+1. A 15 (+10 minute discussion) minute presentation of a chosen paper (paper list can be found in [`presentations/`](presentations/))
 2. Charing a presentation (moderating the discussion + asking 2-3 questions)
 3. Active participation
 
 ---
 
-## Technology Requirements
+## Class Preparation
 
 - Please bring a laptop
 - You need to have a Google account to access notebooks through Google Colab

@@ -10,3 +10,5 @@
 8. Günther, F., Rinaldi, L. and Marelli, M. (2019) “Vector-space models of semantic representation from a cognitive perspective: A discussion of common misconceptions.” https://doi.org/10.1177/1745691619861372
 9. 100 most important NLP papers: https://github.com/mhagiwara/100-nlp-papers
 10. Microgpt: https://karpathy.github.io/2026/02/12/microgpt/ https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95
+11. 3blue1brown youtube channel: https://www.youtube.com/c/3blue1brown
+
