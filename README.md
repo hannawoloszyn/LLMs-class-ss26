@@ -71,7 +71,8 @@ This repository is organized as follows:
 
 ## Class Requirements
 
-1. A 15 (+10 minute discussion) minute presentation of a chosen paper (paper list can be found in [`presentations/`](presentations/))
+1. A 12-15 minute presentation of a chosen paper (paper list can be found in [`presentations/`](presentations/))
+2. A 10 minute discussion
 2. Charing a presentation (moderating the discussion + asking 2-3 questions)
 3. Active participation
 
